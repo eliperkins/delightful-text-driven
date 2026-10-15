@@ -1,0 +1,10 @@
+.DS_Store
+xcuserdata/
+build/
+DerivedData/
+.claude/settings.local.json
+.playwright-mcp/
+/exports/
+
+# The transcript demo's podcast clip: make it with scripts/make-clip.swift
+DelightfulTextDriven/DelightfulTextDriven/Talk/Advanced/Clip/
